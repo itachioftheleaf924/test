@@ -1,0 +1,88 @@
+*{margin: 0%;
+padding: 0;}
+.xy {
+    color: #33FFCE;
+}
+
+.mayn {
+    color: #ae00ff;
+    font-size: 1em;
+    border: 2px orange;
+}
+
+.ok {
+    justify-content: center;
+}
+
+.btn {
+    color: rgb(245, 12, 12);
+    background-color: #2fe2ff11;
+    padding: 11px 19px;
+    border-radius: 22px;
+    font: status-bar;
+    font-size: large;
+    width: 117;
+    margin-bottom: 20px;
+    margin: 20px;
+    border: 20px white;
+}
+
+.learn {
+    background-color: rgb(54, 223, 215);
+    border-radius: 16px;
+}
+
+.learn ul {
+    overflow: auto;
+}
+
+.learn li {
+    float: left;
+    list-style: none;
+    margin: 10px 10px;
+    font-size: x-large;
+}
+
+.learn li a {
+    padding: 4px 4px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.learn li a:hover {
+    color: greenyellow;
+    transition: 0.4s;
+}
+
+.btn:hover {
+   border: 20px white;
+   transition: 0.4s;
+}
+
+.btn:active {
+    background-color: #000000;
+}
+.senku{display: flex;
+    background-color: rgba(0, 0, 0);
+flex-direction: column;
+max-width: min-content;
+border: red;
+border-width: 5 5px;
+}
+.useless{color: cornflowerblue;
+;}
+
+.goals{color: cyan;
+text-decoration: null;
+justify-content: center;
+margin-left: 50%;
+font-size: 40px;
+border-radius: 15px;
+}
+span {margin-left: 700px;
+font-size: x-large;
+background-color: orange;}
+
+
+li {
+        border: 1px orange;}
